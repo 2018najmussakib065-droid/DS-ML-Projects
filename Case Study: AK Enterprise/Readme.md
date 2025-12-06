@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/DataScience.png
 #Python • NumPy • Data Cleaning • Visualization • EDA
 
 This project is based on a structured assignment analyzing sales data of AK Enterprise, a mid-sized electronics and home appliances company. The goal of the project was to practice Python fundamentals, NumPy operations, data cleaning, reshaping, and visualization techniques using real-world-style messy data.
