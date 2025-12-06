@@ -5,6 +5,7 @@ This project is based on a structured assignment analyzing sales data of AK Ente
 *The notebook includes solutions to 15+ analytical and data engineering tasks, covering everything from loops and functions to advanced data cleaning and visualizations.*
 
 ##Project Overview
+
 ###1. Python Fundamentals
 
 Calculated total revenue using loops
