@@ -6,7 +6,7 @@ This project is based on a structured assignment analyzing sales data of AK Ente
 
 ## Project Overview
 
-### 1. Python Fundamentals###
+### 1. Python Fundamentals
 
 Calculated total revenue using loops
 
@@ -14,7 +14,7 @@ Wrote condition-based functions to check sales target achievement
 
 Created a function to compute average customer rating for a product
 
-### 2. NumPy & Matrix Operations###
+### 2. NumPy & Matrix Operations
 
 Created a 2D matrix representing regional sales
 
@@ -22,7 +22,7 @@ Transposed the matrix & calculated column-wise totals
 
 Normalized the entire matrix to values between 0 and 1
 
-### 3. Data Cleaning & Reshaping###
+### 3. Data Cleaning & Reshaping
 
 Performed complete cleaning on the raw dataset:
 
@@ -40,7 +40,7 @@ Reshaped dataset using melt()
 
 Engineered a NetProfit feature considering discount deductions
 
-### 4. Data Visualization###
+### 4. Data Visualization
 
 Created meaningful plots to extract insights:
 
@@ -56,7 +56,7 @@ Created meaningful plots to extract insights:
 
  **Histogram:** Customer ratings distribution
 
-### 5. Tech Stack & Libraries###
+### 5. Tech Stack & Libraries
 
 **Python**
 
